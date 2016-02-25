@@ -219,7 +219,7 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {67559249,71951412,0,tonumber(our_id)},--Sudo users
+    sudo_users = {167268835,164100672,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -229,12 +229,12 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@TELE_HELPER021 [Founder]
-@TELE_HELPER021 [Developer]
-@TELE_HELPER021 [Manager]
+@Xx_minister_salib_xX سازنده
+@Xx_king_salib_xX
+
 
 Special thanks to
-awkward_potato
+@Xx_minister_salib_xX
 Siyanew
 topkecleon
 Vamptacus
